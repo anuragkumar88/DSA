@@ -12,7 +12,7 @@ public class AbsoluteValueFunctionConvertor {
             System.out.println("your value as absolute is : " +num);
         }
     }
-
+// this
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("enter your number :");
